@@ -1,0 +1,32 @@
+flex property 
+
+1. display: flex 
+2. justify content: center, flex-end, flex-start, space-around
+space-between, space-evenly
+3. align items (height)
+4. flex basis
+5. flex-direction
+order
+
+wrap
+grow
+shirnk
+
+1. project folder creation (img,css,index.html)
+2. resource file collect (font, color, and img)
+Important websites
+https://uicolorpicker.com/
+https://www.pexels.com/
+https://fonts.google.com/
+https://fontawesome.com/
+
+
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+font-size*1.7
+display:flow-root
+
+
+
+
